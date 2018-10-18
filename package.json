@@ -1,0 +1,15 @@
+{
+  "name": "karmatic-example",
+  "version": "1.0.0",
+  "description": "Example browser-based tests that are run using Karmatic",
+  "scripts": {
+    "test": "karmatic"
+  },
+  "keywords": [],
+  "author": "Ian Walter <public@iankwalter.com> (https://iankwalter.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "karmatic": "^1.2.0",
+    "webpack": "^4.21.0"
+  }
+}
